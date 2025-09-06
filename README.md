@@ -13,4 +13,4 @@ It is part of the internship project **Subdomain Enumeration Tool** at *Black By
 
 ## Usage
 ```bash
-python securitytrails_integration.py <domain> --method <list|search> --api-key <YOUR_API_KEY> --out results.txt
+python sub_enum.py <domain> --method <list|search> --api-key <YOUR_API_KEY> --out results.txt
