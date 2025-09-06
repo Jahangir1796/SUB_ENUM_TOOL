@@ -1,7 +1,7 @@
 # BlackByt3 Subdomain Enumeration – SecurityTrails Module
 
-This is a Python module for **subdomain enumeration** using the SecurityTrails API.  
-It is part of the internship project **Subdomain Enumeration Tool** by Team *Black Byt3*.  
+This is a Python module for **subdomain enumeration tool** using the SecurityTrails API.  
+It is part of the internship project **Subdomain Enumeration Tool** at *Black Byt3* by Team *NEXUS*.  
 
 ## Features
 - Integrates with SecurityTrails API
